@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteratureParser", "LiteratureParser\LiteratureParser.csproj", "{DB1C0D0D-D1D3-4B5C-BF2F-F10A91395EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1C0D0D-D1D3-4B5C-BF2F-F10A91395EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1C0D0D-D1D3-4B5C-BF2F-F10A91395EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1C0D0D-D1D3-4B5C-BF2F-F10A91395EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1C0D0D-D1D3-4B5C-BF2F-F10A91395EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE510EB9-6FFB-44F9-B4E2-0C37A3E18221}
+	EndGlobalSection
+EndGlobal
